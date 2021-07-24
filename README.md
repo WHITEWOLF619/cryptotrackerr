@@ -1,5 +1,5 @@
 # cryptotrackerr
-A flutter based app which tracks real time crypto prices in different currencies.
+A flutter based app that tracks real-time crypto prices in different currencies.
 
 Cryptos-
    CNY
