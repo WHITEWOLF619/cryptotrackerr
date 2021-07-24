@@ -26,8 +26,8 @@ Android studio v- 4.2
 Android v- 10(Q)
 
 # ScreenShots
-![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg)
-![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg)
+![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto1.jpg)
+![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto2.jpg)
 
 # Future Work
 could turn it into make a portfolio tracker which tracks all your crypto investments in real time.
