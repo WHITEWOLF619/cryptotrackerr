@@ -20,13 +20,14 @@ Currencies-
 using coinApi.Io
 
 # Dependencies
-flutter v- 
-Dart v-
-Android studio v-
+flutter v- 1.21
+Dart v- 1.21
+Android studio v- 4.2
+Android v- 10(Q)
 
 # ScreenShots
 ![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg)
 ![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg)
 
 # Future Work
-could turn it into make a portfolio tracker which tracks all your crypto investment portfolio in real time.
+could turn it into make a portfolio tracker which tracks all your crypto investments in real time.
